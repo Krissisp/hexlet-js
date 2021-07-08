@@ -1,1 +1,1 @@
-console.log('Heloo, Heexlet!')
+console.log('Hello, Hexlet!')
